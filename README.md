@@ -25,8 +25,6 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
-
-
 <div align="center">
   <picture>
     <!-- Dark mode -->
@@ -41,7 +39,6 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
     />
   </picture>
 </div>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrGuddu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
