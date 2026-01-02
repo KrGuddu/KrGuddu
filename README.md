@@ -25,10 +25,26 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
-<div align="center">
+<!-- <div align="center">
   <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
    <img src="https://raw.githubusercontent.com/KrGuddu/KrGuddu/output/github-contribution-grid-snake.svg" />
+</div> -->
+
+<div align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      srcset="https://raw.githubusercontent.com/KrGuddu/KrGuddu/output/github-contribution-grid-snake-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <img
+      src="https://raw.githubusercontent.com/KrGuddu/KrGuddu/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrGuddu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
