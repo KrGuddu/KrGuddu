@@ -25,10 +25,7 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
-<!-- <div align="center">
-  <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
-   <img src="https://raw.githubusercontent.com/KrGuddu/KrGuddu/output/github-contribution-grid-snake.svg" />
-</div> -->
+
 
 <div align="center">
   <picture>
