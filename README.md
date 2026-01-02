@@ -23,33 +23,27 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KrGuddu&show_icons=true&theme=github-dark&hide_border=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrGuddu&show_icons=true&theme=github-dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&layout=compact&theme=github-dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&layout=compact&theme=github-dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KrGuddu&theme=github-dark&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KrGuddu&theme=github-dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KrGuddu&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrGuddu&theme=github-dark&hide_border=true" />
 </p>
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KrGuddu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
 <div align="center">
