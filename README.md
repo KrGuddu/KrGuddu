@@ -26,7 +26,8 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 
 <!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
+   <img src="https://raw.githubusercontent.com/KrGuddu/KrGuddu/output/github-contribution-grid-snake.svg" />
 </div>
 
 ## 🏆 GitHub Trophies
