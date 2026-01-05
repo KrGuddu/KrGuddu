@@ -22,7 +22,11 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KrGuddu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KrGuddu&show_icons=true&theme=github-dark&hide_border=true&cache_seconds=1800" />
 </p>
 
@@ -36,13 +40,7 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrGuddu&theme=github-dark&hide_border=true" />
-</p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KrGuddu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrGuddu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p> -->
 
 
 <!-- Snake Game Repo View -->
