@@ -13,6 +13,10 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 - 😄 **Pronouns:** Mr. Guddu 
 - ⚡ **Fun fact:** Clean UI, performance optimization, and modern frontend tools excite me 🚀
 
+## 🏆 Achievements
+
+- ⭐⭐⭐⭐ (4-star) on HackerRank in Java
+- Consistently solving DSA and Java problems across platforms
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krguddu684) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@guddukumar57761) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krguddu684@gmail.com) 
