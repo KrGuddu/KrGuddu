@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects or any
 
 ## 🏆 Achievements
 
-- ⭐⭐⭐⭐ (4-star) on HackerRank in Java
+- Achieved 5⭐ Gold Badge in Java Programming on HackerRank
 - Consistently solving DSA and Java problems across platforms
 
 ## 🌐 Socials:
