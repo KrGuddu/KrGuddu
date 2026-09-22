@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects, or an
 - 🔭 **I’m currently working on:** Full Stack web applications, React projects & DSA with Java
 - 🌱 **I’m currently learning:** Advanced React, TypeScript, Java DSA, System Design & AI Integration
 - 👯 **I’m looking to collaborate on:** React, Full Stack, Open Source & developer-focused projects
-- 🤔 **I’m looking for help with:** Scalable application architecture, system design & advanced DSA
+- 🤔 **I’m looking for help with:** Scalable application architecture, system design & advanced DSA 
 - 💬 **Ask me about:** React.js, JavaScript, TypeScript, Node.js, Java, SQL & Frontend Development
 - 📫 **How to reach me:** **krguddu684@gmail.com**
 - 😄 **Pronouns:** Mr. Guddu
