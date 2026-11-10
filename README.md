@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Guddu Kumar
+# 💫 Hi 👋, I'm Guddu Kumar 
 
 **A passionate Full Stack Developer from India, specializing in React.js, JavaScript, TypeScript, and modern web technologies.**
 
@@ -24,6 +24,7 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects, or an
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/KrGuddu)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/krgudd58eo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/krguddu684)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kr-guddu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@guddukumar57761) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krguddu684@gmail.com) 
