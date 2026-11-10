@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **krguddu684@gmail.com** for collaboration, projects, or an
 - 💬 **Ask me about:** React.js, JavaScript, TypeScript, Node.js, Java, SQL & Frontend Development
 - 📫 **How to reach me:** **krguddu684@gmail.com**
 - 😄 **Pronouns:** Mr. Guddu
-- ⚡ **Fun fact:** I enjoy turning ideas into clean, scalable web applications and continuously improving my DSA & development skills 🚀
+- ⚡ **Fun fact:** I enjoy turning ideas into clean, scalable web applications and continuously improving my DSA & development skills 🚀 
 
 ## 🏆 Achievements
 
